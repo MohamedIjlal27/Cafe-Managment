@@ -1,0 +1,27 @@
+Product Name		Price		Quantity
+Muffin		81		448
+Product Name		Price		Quantity
+Pizza		135		448
+Muffin		391.5		445
+Product Name		Price		Quantity
+Water Bottles		360		1495
+Product Name		Price		Quantity
+Macron		117		748
+Yoghurt		274.5		149
+Product Name		Price		Quantity
+Yoghurt		81		147
+Product Name		Price		Quantity
+Pizza		135		446
+Product Name		Price		Quantity
+Donuts		40.5		549
+Water Bottles		225		1493
+Product Name		Price		Quantity
+Donuts		40.5		549
+Water Bottles		153		1494
+Product Name		Price		Quantity
+Water Bottles		144		1492
+Product Name		Price		Quantity
+Product Name		Price		Quantity
+Pizza		337.5		441
+Product Name		Price		Quantity
+Popcorns		40.5		449
